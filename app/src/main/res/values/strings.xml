@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Cinema em pauta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_name_01">Aventureiros do Bairro Proibido</string>
+    <string name="movie_name_02">MadMax Estrada da Furia</string>
+    <string name="movie_name_03">O Parasita</string>
+    <string name="movie_name_04">O Sol é para Todos</string>
+    <string name="movie_description_01">Filme 80s conta a aventura de jovens na China Town de São Francisco</string>
+    <string name="movie_description_02">MadMax: classico dos anos 80 revisitado com uma historia mais contemporanea.</string>
+    <string name="movie_description_03">Filme sul coreano bem cool retrata a historia de moradores de Seoul e a diferença social.</string>
+    <string name="movie_description_04">Anos 50! Classisco, lindo, emocionante  e atual. Maravilhoso.</string>
+    <string name="movie_synopsis_01"> O filme conta a história de Jack Burton, que ajuda seu amigo Wang Chi a resgatar a noiva de olhos verdes de Wang de bandidos na Chinatown de São Francisco. Eles vão para o misterioso submundo sob Chinatown, onde enfrentam um antigo feiticeiro chamado David Lo Pan, que exige que uma mulher de olhos verdes se case com ele para libertá-lo de uma maldição secular.</string>
+    <string name="movie_synopsis_02">Perseguido pelo seu turbulento passado, Max Rockatansky (Tom Hardy) acredita que a melhor forma de sobreviver é não depender de mais ninguém além de si próprio. Ainda assim, acaba por se juntar a um grupo de rebeldes que atravessa a Wasteland, numa máquina de guerra conduzida por uma Imperatriz de elite, Furiosa (Charlize Theron). Este bando está em fuga de uma Cidadela tiranizada por Immortan Joe (Hugh Keays-Byrne), a quem algo insubstituível foi roubado. Desesperado com a sua perda, o Senhor da Guerra reúne o seu exército e inicia uma impiedosa perseguição aos rebeldes e a mais implacável Guerra na Estrada de sempre.</string>
+    <string name="movie_synopsis_03">Kim Ki-taek, um motorista desempregado, vive com a sua esposa Choong-sook, o filho Ki-woo e a filha Ki-jeong num pequeno apartamento, situado na cave de um prédio. Diariamente, a família luta para sobreviver, exercendo trabalhos precários, com pouquíssimos rendimentos, até ao dia em que um amigo de Ki-woo, Min-hyuk, visita a família e presenteia-os com uma grande rocha, garantindo-lhes que esta lhes trará grandes riquezas.</string>
+    <string name="movie_synopsis_04">Após a Crise de 1929, os habitantes da pacata Maycomb, no Alabama, são na grande maioria pequenos agricultores. Em 1932, vivem ali os irmãos Jem e Scout Finch, órfãos de mãe criados pela babá negra Calpurnia e o pai Atticus Finch, advogado íntegro e respeitado na cidade, que atende gratuitamente aos mais pobres. A infância dividida entre a escola e as fantasias acerca do vizinho, o "malvado" Sr. Radley, cede espaço ao contacto com a discriminação quando seu pai resolve defender o negro Tom Robinson, acusado de ter estuprado uma moça branca. A conservadora cidade se volta contra ele, apesar da inocência do rapaz ser evidente.</string>
+    <string name="movie_avaliation_01">Bom</string>
+    <string name="movie_avaliation_02">Bom</string>
+    <string name="movie_avaliation_03">Ótimo</string>
+    <string name="movie_avaliation_04">Excelente</string>
+    <string name="avaliation_fix_text">Nossa avaliação:</string>
+    <string name="explain_button_share">botão compartilhar</string>
+    <string name="go_back_button">Voltar</string>
+
+
+</resources>
